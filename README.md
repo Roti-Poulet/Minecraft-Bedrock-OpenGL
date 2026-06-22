@@ -1,3 +1,3 @@
 Download: Go to the releases section
 
-This build needs Windows Vista to function properly (it will not work on Windows XP in any way)
+Deprecated, use this instead: https://github.com/Roti-Poulet/Minecraft-Bedrock-Windows-7
